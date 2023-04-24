@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chris-grg&label=Profile%20views&color=0e75b6&style=flat" alt="chris-grg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chris-grg" alt="chris-grg" /></a> </p>
 
 - 🌱 I’m currently learning **MERN**
 

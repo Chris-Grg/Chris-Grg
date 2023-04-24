@@ -4,24 +4,29 @@
 <h3 align="center">A passionate web developer from Nepal</h3>
 <h3 align="center">I recently completed Bachelors in Computer Engineering from Kantipur Engineering College, Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chris-grg&label=Profile%20views&color=0e75b6&style=flat" alt="chris-grg" /> </p>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/dJoNrskdhoMBvEwD7"/>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 - 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 My Portfolio website [https://chrisgurung.com.np/](https://chrisgurung.com.np/)
 
 
-
+## Languages and Tools
+<div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chris-grg&show_icons=true&locale=en&layout=compact" alt="chris-grg" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chris-grg&show_icons=true&locale=en" alt="chris-grg" /></p>
+## GitHub Stats
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chris-grg&show_icons=true&theme=react" alt="chris-grg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chris-grg&" alt="chris-grg" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chris-grg&show_icons=true&theme=react" alt="chris-grg" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chris-grg&show_icons=true&theme=react" alt="chris-grg" /></p>
+</div>
 
 ## Connect with me  
 <div align="center">

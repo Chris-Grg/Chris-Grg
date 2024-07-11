@@ -3,6 +3,7 @@
 <h3 align="center">I'm Chris Gurung </h3> 
 <h3 align="center">A passionate web developer from Nepal</h3>
 <h3 align="center">I recently completed Bachelors in Computer Engineering from Kantipur Engineering College, Nepal</h3>
+<h3 align="center">Working as software engineering intern (web development) in waterflow technology</h3>
 
 </br>
 
